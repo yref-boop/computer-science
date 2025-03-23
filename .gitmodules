@@ -1,0 +1,63 @@
+[submodule "infrastructure-management"]
+	path = infrastructure-management
+	url = git@github.com:yref-boop/infrastructure-management.git
+[submodule "graphical-computation"]
+	path = graphical-computation
+	url = git@github.com:yref-boop/graphical-computation
+[submodule "language-processing"]
+	path = language-processing
+	url = git@github.com:yref-boop/language-processing
+[submodule "intelligent-systems-development"]
+	path = intelligent-systems-development
+	url = git@github.com:yref-boop/intelligent-systems-development
+[submodule "language-design"]
+	path = language-design
+	url = git@github.com:yref-boop/language-design
+[submodule "distributed-systems"]
+	path = distributed-systems
+	url = git@github.com:yref-boop/distributed-systems
+[submodule "theoretical-computer-science"]
+	path = theoretical-computer-science
+	url = git@github.com:yref-boop/theoretical-computer-science
+[submodule "automatic-learning"]
+	path = automatic-learning
+	url = git@github.com:yref-boop/automatic-learning
+[submodule "linear-programming"]
+	path = linear-programming
+	url = git@github.com:yref-boop/linear-programming
+[submodule "answer-set-programming"]
+	path = answer-set-programming
+	url = git@github.com:yref-boop/answer-set-programming
+[submodule "perceptron"]
+	path = perceptron
+	url = git@github.com:yref-boop/perceptron
+[submodule "intelligent-systems"]
+	path = intelligent-systems
+	url = git@github.com:yref-boop/intelligent-systems
+[submodule "software-design"]
+	path = software-design
+	url = git@github.com:yref-boop/software-design
+[submodule "it-security"]
+	path = it-security
+	url = git@github.com:yref-boop/it-security
+[submodule "databases"]
+	path = databases
+	url = git@github.com:yref-boop/databases
+[submodule "algorithms"]
+	path = algorithms
+	url = git@github.com:yref-boop/algorithms
+[submodule "shell"]
+	path = shell
+	url = git@github.com:yref-boop/shell
+[submodule "parallelism"]
+	path = parallelism
+	url = git@github.com:yref-boop/parallelism
+[submodule "functional-programming-basics"]
+	path = functional-programming-basics
+	url = git@github.com:yref-boop/functional-programming-basics
+[submodule "concurrency"]
+	path = concurrency
+	url = git@github.com:yref-boop/concurrency
+[submodule "ADTs"]
+	path = ADTs
+	url = git@github.com:yref-boop/ADTs
