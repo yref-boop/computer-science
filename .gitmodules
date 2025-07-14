@@ -64,3 +64,6 @@
 [submodule "artificial-vision"]
 	path = artificial-vision
 	url = git@github.com:yref-boop/artificial-vision.git
+[submodule "networks"]
+	path = networks
+	url = git@github.com:yref-boop/networks.git
