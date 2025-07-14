@@ -61,3 +61,6 @@
 [submodule "ADTs"]
 	path = ADTs
 	url = git@github.com:yref-boop/ADTs
+[submodule "artificial-vision"]
+	path = artificial-vision
+	url = git@github.com:yref-boop/artificial-vision.git
