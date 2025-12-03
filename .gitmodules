@@ -1,69 +1,66 @@
 [submodule "infrastructure-management"]
-	path = infrastructure-management
+	path = quarter 05/infrastructure-management
 	url = git@github.com:yref-boop/infrastructure-management.git
 [submodule "graphical-computation"]
-	path = graphical-computation
+	path = quarter 07/graphical-computation
 	url = git@github.com:yref-boop/graphical-computation
 [submodule "language-processing"]
-	path = language-processing
+	path = quarter 07/language-processing
 	url = git@github.com:yref-boop/language-processing
 [submodule "intelligent-systems-development"]
-	path = intelligent-systems-development
+	path = quarter 06/intelligent-systems-development
 	url = git@github.com:yref-boop/intelligent-systems-development
 [submodule "language-design"]
-	path = language-design
+	path = quarter 07/language-design
 	url = git@github.com:yref-boop/language-design
 [submodule "distributed-systems"]
-	path = distributed-systems
+	path = quarter 05/distributed-systems
 	url = git@github.com:yref-boop/distributed-systems
 [submodule "theoretical-computer-science"]
-	path = theoretical-computer-science
+	path = quarter 06/theoretical-computer-science
 	url = git@github.com:yref-boop/theoretical-computer-science
 [submodule "automatic-learning"]
-	path = automatic-learning
+	path = quarter 05/automatic-learning
 	url = git@github.com:yref-boop/automatic-learning
 [submodule "linear-programming"]
-	path = linear-programming
+	path = quarter 04/linear-programming
 	url = git@github.com:yref-boop/linear-programming
 [submodule "answer-set-programming"]
-	path = answer-set-programming
+	path = quarter 06/answer-set-programming
 	url = git@github.com:yref-boop/answer-set-programming
-[submodule "perceptron"]
-	path = perceptron
-	url = git@github.com:yref-boop/perceptron
 [submodule "intelligent-systems"]
-	path = intelligent-systems
+	path = quarter 04/intelligent-systems
 	url = git@github.com:yref-boop/intelligent-systems
 [submodule "software-design"]
-	path = software-design
+	path = quarter 03/software-design
 	url = git@github.com:yref-boop/software-design
 [submodule "it-security"]
-	path = it-security
+	path = quarter 05/it-security
 	url = git@github.com:yref-boop/it-security
 [submodule "databases"]
-	path = databases
+	path = quarter 04/databases
 	url = git@github.com:yref-boop/databases
 [submodule "algorithms"]
-	path = algorithms
+	path = quarter 03/algorithms
 	url = git@github.com:yref-boop/algorithms
 [submodule "shell"]
-	path = shell
+	path = quarter 03/shell
 	url = git@github.com:yref-boop/shell
 [submodule "parallelism"]
-	path = parallelism
+	path = quarter 04/parallelism
 	url = git@github.com:yref-boop/parallelism
 [submodule "functional-programming-basics"]
-	path = functional-programming-basics
+	path = quarter 03/functional-programming-basics
 	url = git@github.com:yref-boop/functional-programming-basics
 [submodule "concurrency"]
-	path = concurrency
+	path = quarter 04/concurrency
 	url = git@github.com:yref-boop/concurrency
 [submodule "ADTs"]
-	path = ADTs
+	path = quarter 02/ADTs
 	url = git@github.com:yref-boop/ADTs
 [submodule "artificial-vision"]
-	path = artificial-vision
+	path = quarter 05/artificial-vision
 	url = git@github.com:yref-boop/artificial-vision.git
 [submodule "networks"]
-	path = networks
+	path = quarter 04/networks
 	url = git@github.com:yref-boop/networks.git
