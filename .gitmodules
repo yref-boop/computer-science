@@ -20,7 +20,7 @@
 	path = quarter 06/theoretical-computer-science
 	url = git@github.com:yref-boop/theoretical-computer-science
 [submodule "automatic-learning"]
-	path = quarter 05/automatic-learning
+	path = quarter 06/automatic-learning
 	url = git@github.com:yref-boop/automatic-learning
 [submodule "linear-programming"]
 	path = quarter 04/linear-programming
@@ -59,7 +59,7 @@
 	path = quarter 02/ADTs
 	url = git@github.com:yref-boop/ADTs
 [submodule "artificial-vision"]
-	path = quarter 05/artificial-vision
+	path = quarter 07/artificial-vision
 	url = git@github.com:yref-boop/artificial-vision.git
 [submodule "networks"]
 	path = quarter 04/networks
